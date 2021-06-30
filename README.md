@@ -1,2 +1,2 @@
 # ozg2g
-A tool to convert coordination system between grid and geographic based on Geocentric Datum of Australia 2020 Technical Manual v1.2.
+A tool to convert geographic to / from grid coordinates by the method from Krueger &lambda;-series equations (Krueger, 1912).
